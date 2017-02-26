@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 4a61a818abc034a9393bfcadce1e9bda
-timeCreated: 1487803707
+timeCreated: 1488124934
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -10,6 +10,7 @@ TextureImporter:
     21300006: RoomInterior_3
     21300008: RoomInterior_4
     21300010: RoomInterior_5
+    21300012: RoomInterior_6
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -170,10 +171,23 @@ TextureImporter:
         serializedVersion: 2
         x: 1454
         y: 673
-        width: 594
+        width: 590
         height: 698
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RoomInterior_6
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 838
+        width: 516
+        height: 514
+      alignment: 9
+      pivot: {x: 0.47837934, y: 0.34937432}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0

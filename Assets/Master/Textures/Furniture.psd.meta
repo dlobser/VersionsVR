@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: adca18cf1a2c440e6bae1808d4fff7b3
-timeCreated: 1487798822
+timeCreated: 1488132029
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -11,6 +11,10 @@ TextureImporter:
     21300008: Furniture_4
     21300010: Furniture_5
     21300012: Furniture_6
+    21300014: Furniture_7
+    21300016: Furniture_8
+    21300018: Furniture_9
+    21300020: Furniture_10
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -108,8 +112,8 @@ TextureImporter:
         y: 1744
         width: 639
         height: 304
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.9499785, y: 0.1135266}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -188,6 +192,58 @@ TextureImporter:
         height: 109
       alignment: 9
       pivot: {x: 0.46315983, y: 0.47733063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Furniture_7
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1639
+        width: 362
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Furniture_8
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1645
+        width: 353
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Furniture_9
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1259
+        width: 349
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Furniture_10
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 950
+        width: 461
+        height: 671
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
